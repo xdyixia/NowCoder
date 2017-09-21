@@ -48,3 +48,4 @@ public class array_search1 {
 	}
 
 }
+//ok
